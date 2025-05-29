@@ -34,4 +34,5 @@ python3 main.py
 
 - Martin Eduardo Chacon Orduño [Chacon0754](https://github.com/Chacon0754).
 - Oscar Joaquin Marquez Ortega [Oscar27-22](https://github.com/Oscar27-22).
+- https://github.com/MoXcz/python-busqueda [Mariam-GC](https://github.com/Mariam-GC)
 - ...
